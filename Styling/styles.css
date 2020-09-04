@@ -1,0 +1,63 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+.top-section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5em;
+}
+
+.top-huddle-section {
+    background-image: url(../images/bg-hero-mobile.svg);
+    margin: 0;
+    text-align: center;
+}
+
+.illustration-image img {
+    width: 18em;
+    height: 9em;
+    margin-top: 2em;
+}
+
+.site_logo img{
+    width: 120px;
+}
+
+.free-trial {
+    background-color: hsl(193, 100%, 96%);
+    border-radius: 60px;
+}
+
+.free-trial button {
+    border-radius: 22px;
+    padding: 4px 30px 4px 30px;
+    width: 12em;
+    height: 1.8em;
+    font-size: 11px;
+}
+
+.getting-started button {
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-radius: 22px;
+    padding: 8.5px 30px 8.5px 30px;
+    text-align: center;
+    
+}
+
+.main-heading {
+    padding-right: 1em;
+    padding-left: 1em;
+    font-weight: bolder;
+}
+
+.upper-content {
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-right: 1em;
+    padding-left: 1em;
+}
